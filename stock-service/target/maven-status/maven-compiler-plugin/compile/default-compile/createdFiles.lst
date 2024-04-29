@@ -1,0 +1,5 @@
+net\javaguides\stockservice\dto\Order.class
+net\javaguides\stockservice\config\RabbitMQConfig.class
+net\javaguides\stockservice\consumer\OrderConsumer.class
+net\javaguides\stockservice\dto\OrderEvent.class
+net\javaguides\stockservice\StockServiceApplication.class
