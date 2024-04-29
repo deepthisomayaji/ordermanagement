@@ -1,0 +1,6 @@
+D:\mtech_sem1\fsc\New folder12\order-service\src\main\java\net\javaguides\orderservice\dto\OrderEvent.java
+D:\mtech_sem1\fsc\New folder12\order-service\src\main\java\net\javaguides\orderservice\config\RabbitMQConfig.java
+D:\mtech_sem1\fsc\New folder12\order-service\src\main\java\net\javaguides\orderservice\OrderServiceApplication.java
+D:\mtech_sem1\fsc\New folder12\order-service\src\main\java\net\javaguides\orderservice\dto\Order.java
+D:\mtech_sem1\fsc\New folder12\order-service\src\main\java\net\javaguides\orderservice\controller\OrderController.java
+D:\mtech_sem1\fsc\New folder12\order-service\src\main\java\net\javaguides\orderservice\publisher\OrderProducer.java

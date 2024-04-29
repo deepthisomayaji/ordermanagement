@@ -1,0 +1,6 @@
+net\javaguides\orderservice\controller\OrderController.class
+net\javaguides\orderservice\OrderServiceApplication.class
+net\javaguides\orderservice\publisher\OrderProducer.class
+net\javaguides\orderservice\config\RabbitMQConfig.class
+net\javaguides\orderservice\dto\Order.class
+net\javaguides\orderservice\dto\OrderEvent.class

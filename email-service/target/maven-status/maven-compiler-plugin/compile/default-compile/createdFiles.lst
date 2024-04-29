@@ -1,0 +1,5 @@
+net\javaguides\emailservice\dto\Order.class
+net\javaguides\emailservice\config\RabbitMQConfig.class
+net\javaguides\emailservice\dto\OrderEvent.class
+net\javaguides\emailservice\consumer\OrderConsumer.class
+net\javaguides\emailservice\EmailServiceApplication.class
